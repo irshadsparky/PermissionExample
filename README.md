@@ -6,7 +6,10 @@ use dependancy
   implementation 'com.github.irshadsparky:PermissionLib:master-SNAPSHOT'
   
   
+  in menifist file use:
   
+  <activity android:name="com.irshad.runtimepermissionlib.PermissionUtils$PermissionActivity" />
+
   
    //--------request camera permission------------------------
         PermissionHelper.requestCamera(new PermissionHelper.OnPermissionGrantedListener() {
