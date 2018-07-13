@@ -23,7 +23,6 @@ dependencies {
 2. The `Permission Library` to your Manifest xml:
 
     ```xml
-
   <activity android:name="com.irshad.runtimepermissionlib.PermissionUtils$PermissionActivity" />
 ```
 
