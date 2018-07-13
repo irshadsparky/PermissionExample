@@ -28,7 +28,7 @@ dependencies {
 
 3.Now you need to add class in your package to use direct in anywhere in your application.
 ["PermissionHelper.java" ](https://github.com/irshadsparky/PermissionExample/blob/master/app/src/main/java/com/irshad/permissionexample/helper/PermissionHelper.java)
-["DialogHelper.java" API](https://github.com/irshadsparky/PermissionExample/blob/master/app/src/main/java/com/irshad/permissionexample/helper/DialogHelper.java)
+["DialogHelper.java"](https://github.com/irshadsparky/PermissionExample/blob/master/app/src/main/java/com/irshad/permissionexample/helper/DialogHelper.java)
 
     ```
     you can modify them as per your requirement.
