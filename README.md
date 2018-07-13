@@ -22,7 +22,7 @@ dependencies {
 
 2. The `Permission Library` to your Manifest xml:
 ```xml
-  <activity android:name="com.irshad.runtimepermissionlib.PermissionUtils$PermissionActivity" />
+  <activity android:name="com.irshad.permissionlib.PermissionUtils$PermissionActivity" />
 ```
 3.Now you need to add class in your package to use direct in anywhere in your application.
 ["PermissionHelper.java" ](https://github.com/irshadsparky/PermissionExample/blob/master/app/src/main/java/com/irshad/permissionexample/helper/PermissionHelper.java)
