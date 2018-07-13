@@ -31,7 +31,7 @@ dependencies {
 ["PermissionHelper.java" ](https://github.com/irshadsparky/PermissionExample/blob/master/app/src/main/java/com/irshad/permissionexample/helper/PermissionHelper.java)
 ["DialogHelper.java"](https://github.com/irshadsparky/PermissionExample/blob/master/app/src/main/java/com/irshad/permissionexample/helper/DialogHelper.java)
 
-    ```
+   
     you can modify them as per your requirement.
     
 4. Finally, you can use library like:
