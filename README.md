@@ -21,9 +21,9 @@ dependencies {
 1. Your application will need the permissions that you required for runtime.
 
 2. The `Permission Library` to your Manifest xml:
-
+```xml
   <activity android:name="com.irshad.runtimepermissionlib.PermissionUtils$PermissionActivity" />
-
+```
 3.Now you need to add class in your package to use direct in anywhere in your application.
 ["PermissionHelper.java" ](https://github.com/irshadsparky/PermissionExample/blob/master/app/src/main/java/com/irshad/permissionexample/helper/PermissionHelper.java)
 ["DialogHelper.java"](https://github.com/irshadsparky/PermissionExample/blob/master/app/src/main/java/com/irshad/permissionexample/helper/DialogHelper.java)
